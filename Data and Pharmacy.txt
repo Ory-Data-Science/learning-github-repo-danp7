@@ -9,3 +9,5 @@ The types of data that a pharmacist reads
 - Billing information
 
 - Drug formularies
+
+- Pharmacy periodicals

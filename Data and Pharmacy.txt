@@ -5,3 +5,7 @@ The types of data that a pharmacist reads
 - Patient charts 
 
 - Insurance forms
+
+- Billing information
+
+- Drug formularies

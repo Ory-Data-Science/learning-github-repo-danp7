@@ -11,3 +11,5 @@ The types of data that a pharmacist reads
 - Drug formularies
 
 - Pharmacy periodicals
+
+- Do Prescriptions constitute data?  I feel like they do.

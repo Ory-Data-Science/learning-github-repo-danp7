@@ -1,0 +1,7 @@
+The types of data that a pharmacist reads
+
+- Medical journals
+
+- Patient charts 
+
+- Insurance forms

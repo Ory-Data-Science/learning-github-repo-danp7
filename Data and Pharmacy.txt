@@ -1,13 +1,13 @@
 The types of data that a pharmacist reads
 
-- Medical journals
+- Medical Journals
 
-- Patient charts 
+- Patient Charts 
 
-- Insurance forms
+- Insurance Forms
 
-- Billing information
+- Billing Information
 
-- Drug formularies
+- Drug Formularies
 
-- Pharmacy periodicals
+- Pharmacy Periodicals
